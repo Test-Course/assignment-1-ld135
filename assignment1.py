@@ -7,3 +7,4 @@ def internship_days(income,travel_costs, rent, other_expenses):
         return 30
     else:
         return int(travel_days)
+    
