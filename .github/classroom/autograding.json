@@ -5,7 +5,7 @@
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
-      "output": "",
+      "output": "\"Hello\"",
       "comparison": "included",
       "timeout": 10,
       "points": null
